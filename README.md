@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+In addition to the programming langugages shown in the graphic below, I also code in [PHP](https://github.com/highlight/highlight/pull/7152) and some [Swift](https://github.com/Cap-go/capacitor-updater/pull/302).
+
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=20957603" target="_blank" style="display: block" align="center">
